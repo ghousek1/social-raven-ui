@@ -4,7 +4,7 @@ function ComingSoon() {
   return (
     <>
     <div
-    className="w-full h-screen bg-gradient-to-bl from-orange-500 to-yellow-300 flex flex-col justify-center items-center text-white">
+    className="w-full h-screen bg-gradient-to-bl from-red-500 to-purple-500 flex flex-col justify-center items-center text-white">
     <h1 className="text-[3rem]"> <b>Social Raven - Social media management tool</b> </h1>
     <p>Stay tuned for something amazing!!!</p>
 
